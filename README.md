@@ -3,7 +3,7 @@
 This is my personal portfolio webpage built using **HTML and inline CSS**.  
 It is part of my web development learning journey.
 
-## 🌐 About the Project
+## About the Project
 
 This webpage introduces:
 - My name and short introduction
@@ -12,7 +12,7 @@ This webpage introduces:
 - My GitHub profile links
 - Styled layout using inline CSS
 
-## 🎯 Purpose
+## Purpose
 
 The purpose of this project is to:
 - Practice HTML structure
