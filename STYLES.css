@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333333;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card h2 {
+  color: #114C55;
+  margin-bottom: 8px;
+}
+
+.role {
+  color: #2199AB;
+  text-transform: uppercase;
+}
+
+[data-role="engineer"] {
+  border: 2px solid #2199AB;
+}
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.card {
+  display: inline-block;
+  width: 200px;
+  margin: 10px;
+}
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.card {
+  display: inline-block;
+  width: 200px;
+  margin: 10px;
+}
+
+.card:hover {
+  background-color: #f0f8ff;
+  border: 1px solid #2199AB;
+  cursor: pointer;
+}
+
+.card:nth-child(odd) {
+  background-color: #f9f9f9;
+}
